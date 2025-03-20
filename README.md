@@ -14,7 +14,7 @@
 | 4                 | Regression Analysis for Stock Prediction   | 30/01/2025          | 06/02/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/main/Exp%204%20-%20Stock%20Price%20Prediction/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/Stock-Price-Prediction) |
 | 5                 | Conversational Chatbot with Any Files   | 06/02/2025          | 20/02/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/8cf01e62ef661d9504605e12cf852d98d898ddc4/Exp%205%20-%20Conversational%20Chatbot%20with%20PDF%20Reader/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/bookworm) |
 | 6                 | Web Scraper using LLMs   | 13/03/2025          | 20/03/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/95253d5b8af89e2b109edd0e4130f5ed54c1efa4/Exp%206%20-%20Web%20Scraper%20using%20LLMs/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/web-scraper-python) |
-| 7                 |                                       |                     |                     |                       |                  |
+| 7                 | Database Management Using Flask   | 20/03/2025          | 27/03/2025          | [Link to Documentation]() | [Link to Project]() |
 | 8                 |                                       |                     |                     |                       |                  |
 | 9                 |                                       |                     |                     |                       |                  |
 | 10
