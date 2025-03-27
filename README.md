@@ -16,7 +16,7 @@
 | 6                 | Web Scraper using LLMs   | 13/03/2025          | 20/03/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/95253d5b8af89e2b109edd0e4130f5ed54c1efa4/Exp%206%20-%20Web%20Scraper%20using%20LLMs/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/web-scraper-python) |
 | 7                 | Database Management Using Flask   | 20/03/2025          | 27/03/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/5d93d2253e3e401f2cbcc0ea598f6c5dbb1c0eac/Exp%207%20-%20Database%20Management%20Using%20Flask/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/Database-Management-Using-Flask) |
 | 8                 | Natural Language Database Interaction with LLMs | Cancelled                    | Cancelled                    | NA                      | NA                 |
-| Capstone Project  |                                       |                     |                     |                       |                  |
+| Capstone Project  | SwiftCare.ai   |                  | 27/03/2025          | [Link to Documentation](https://github.com/QwertyFusion/application-development-lab-documentation/blob/8a84237071c637a40e1896b9714eeff6df18ac3c/Capstone%20Project%20-%20SwiftCare.ai/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/QwertyFusion/SwiftCare.ai) |
 
 ## Developer
 - [@QwertyFusion](https://github.com/QwertyFusion)
